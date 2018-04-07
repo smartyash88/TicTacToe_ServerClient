@@ -1,0 +1,29 @@
+[2018-04-07 15:10:26] INFO: Reserved port 655
+[2018-04-07 15:10:26] INFO: Listening to port 655
+[2018-04-07 15:13:36] INFO: Reserved port 6556
+[2018-04-07 15:13:36] INFO: Listening to port 6556
+[2018-04-07 15:13:56] INFO: Received connection from ('127.0.0.1', 51737)
+[2018-04-07 15:14:32] INFO: Received connection from ('127.0.0.1', 51742)
+[2018-04-07 15:14:32] INFO: Player 2 is matched with player 1
+[2018-04-07 15:14:50] WARNING: Player 1 connection lost.
+[2018-04-07 15:14:50] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2018-04-07 15:28:30] INFO: Reserved port 12345
+[2018-04-07 15:28:30] INFO: Listening to port 12345
+[2018-04-07 15:28:48] INFO: Received connection from ('127.0.0.1', 51869)
+[2018-04-07 15:29:05] INFO: Received connection from ('127.0.0.1', 51872)
+[2018-04-07 15:29:05] INFO: Player 2 is matched with player 1
+[2018-04-07 15:38:45] WARNING: There is an error when trying to bind 78945
+[2018-04-07 15:38:53] WARNING: There is an error when trying to bind 78945
+[2018-04-07 15:39:05] INFO: Reserved port 45612
+[2018-04-07 15:39:05] INFO: Listening to port 45612
+[2018-04-07 15:39:21] INFO: Received connection from ('127.0.0.1', 51948)
+[2018-04-07 15:39:42] INFO: Received connection from ('127.0.0.1', 51949)
+[2018-04-07 15:39:42] INFO: Player 2 is matched with player 1
+[2018-04-07 15:40:06] WARNING: Player 1 connection lost.
+[2018-04-07 15:40:06] WARNING: Game between 2 and 1 is finished unexpectedly.
+[2018-04-07 15:59:02] INFO: Reserved port 12345
+[2018-04-07 15:59:02] INFO: Listening to port 12345
+[2018-04-07 15:59:25] INFO: Received connection from ('127.0.0.1', 52097)
+[2018-04-07 16:16:02] INFO: 
+[2018-04-07 16:16:02] WARNING: Player 1 connection lost.
+[2018-04-07 16:16:02] WARNING: Player 1 connection lost.
